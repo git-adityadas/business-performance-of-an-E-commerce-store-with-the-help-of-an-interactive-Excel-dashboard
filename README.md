@@ -16,6 +16,7 @@ decisions.
 • Create a column chart of the month-wise table and region-wise table
 • Link the table with a combo box.
 • Create a dashboard using all the visualizations created for the project
-## Tools required: Microsoft Excel, Data Analysis Add-in.
+## Tools required:
+Microsoft Excel, Data Analysis Add-in.
 ## Result 
 - <a href ="https://github.com/git-adityadas/business-performance-of-an-E-commerce-store-with-the-help-of-an-interactive-Excel-dashboard/blob/main/Dashboard_IMAGE.png">Dashboard</a>
